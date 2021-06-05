@@ -3,7 +3,7 @@ Admin Login Page Finder
 
 ## Installation
 ```bash
-git clone https://github.com/pentestor/admin-finder.git
+git clone https://github.com/iamsayeed/admin-finder.git
 cd admin-finder
 python -m pip install -r requirements.txt
 ```
